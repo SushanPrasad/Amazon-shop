@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.229a1b58.css",
+    "main.js": "/static/js/main.effb4669.js",
+    "static/js/787.2fc08247.chunk.js": "/static/js/787.2fc08247.chunk.js",
+    "static/media/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration.jpg": "/static/media/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration.08b4f401463cdb1393c4.jpg",
+    "static/media/2e75fa65-bee1-4b56-82eb-24b35369a802.jpg": "/static/media/2e75fa65-bee1-4b56-82eb-24b35369a802.0d891e70f4900261f02a.jpg",
+    "index.html": "/index.html",
+    "main.229a1b58.css.map": "/static/css/main.229a1b58.css.map",
+    "main.effb4669.js.map": "/static/js/main.effb4669.js.map",
+    "787.2fc08247.chunk.js.map": "/static/js/787.2fc08247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.229a1b58.css",
+    "static/js/main.effb4669.js"
+  ]
+}
