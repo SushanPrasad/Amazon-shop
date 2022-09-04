@@ -1,0 +1,44 @@
+.login{
+background-image: url('/public/images/empty-dark-room-modern-futuristic-sci-fi-background-3d-illustration.jpg');    height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;   
+width: 100vw;
+    display: grid;
+    place-items: center;
+
+}
+
+.login_container {
+    padding: 100px;
+    text-align: center;
+    background-image: url('/public/images/2e75fa65-bee1-4b56-82eb-24b35369a802.jpg');
+    border-radius: 15px;
+    box-shadow: 0 -4px 20px rgba(47, 86, 58, 0.932), 0  4px ;
+    
+}
+
+.image {
+    object-fit: contain;
+    height: 44px;
+    margin-bottom: 40px;
+    justify-items: center;
+}
+
+
+.login_container > button {
+    margin-top:  50px;
+    color:white;
+
+}
+
+.Login_text{
+    color: #059351;
+    text-align: center;
+}
+
+.Login_text:hover{
+    color:#F89B34;
+}

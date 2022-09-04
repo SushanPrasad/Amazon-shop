@@ -1,0 +1,125 @@
+.header{
+    background-color: #131931;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+}
+
+.header_logo{
+    width: 70px;
+    height: 23px;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    object-fit: contain;
+}
+
+.header_searchicon {
+background-color: #FEBD69;
+align-items: center;
+
+}
+.head_search{
+    display: flex;
+    flex:1;
+}
+
+.header_search{
+    margin-left: 7px;
+    align-items: center;
+    height: 22px;
+    border: none;
+    width: 100%;
+    border-color: #FEBD69 orange orange orange;
+}
+
+
+.head_nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.option{
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor:default;
+}
+
+
+.head_link{
+    text-decoration: none;
+    color: white;
+    cursor: default;
+}
+
+.lineone{
+    font-size: 10px;
+}
+
+
+.linetwo{
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.cart{
+    color: whitesmoke;
+    display: flex;
+
+}
+
+.carts{
+    text-decoration: none;
+    display: flex;
+
+}
+
+.count{
+
+    margin-left: 10px;
+    margin-right: 17px;
+    margin-top: 4px;
+    color: #FEBD69;
+
+}
+
+.carticon{
+    height: 26px;
+    width: 26px;
+    margin-top: -1px;
+
+}
+
+.signout{
+    
+
+border: none !important;
+color: gray !important ;
+font-weight: 500;
+text-decoration:none;
+font-size: 5px;
+
+
+}
+
+.link{
+    text-decoration: none;
+    
+    
+}
+
+.sig{
+    font-size: 11px;
+    font-weight: 900;
+    margin-left: -20px;
+}
+
+.sig:hover{
+    color: #FEBD69 ;
+}

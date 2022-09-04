@@ -1,0 +1,32 @@
+.ad{
+    width: 100%;
+    height: 205px;
+    margin-bottom: 10px;
+}
+
+.checkout_title {
+    margin-left: 0px;
+    color: gray;
+    font-weight: 900;
+    border-bottom: 2px solid #D3D3D3;
+}
+
+.checkout{
+    background-color: white;
+    width: -webkit-fill-available;
+}
+
+.head_checkout {
+    display: flex;
+}
+
+
+
+.cartempty {
+    text-align: center;
+    margin-top: 130px;
+    color: gray;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
